@@ -1,0 +1,160 @@
+
+# /nebula2/
+/nebula2/build
+/nebula2/gui.log
+/nebula2/user.build.cfg.py
+/nebula2/*.pyc
+
+# /nebula2/appwiz/
+/nebula2/appwiz/*.pyc
+
+# /nebula2/bin/linux/
+/nebula2/bin/linux/*.a
+/nebula2/bin/linux/nanimtool
+/nebula2/bin/linux/nbumprev
+/nebula2/bin/linux/nbundler
+/nebula2/bin/linux/nclientsh
+/nebula2/bin/linux/ngetcrc
+/nebula2/bin/linux/ngfxtool
+/nebula2/bin/linux/nmakepatch
+/nebula2/bin/linux/nmasterserversh
+/nebula2/bin/linux/nmeshtool
+/nebula2/bin/linux/nnpktool
+/nebula2/bin/linux/nremoteshell
+/nebula2/bin/linux/nsh
+/nebula2/bin/linux/nstub
+/nebula2/bin/linux/nviewer
+
+# /nebula2/bin/macosx/
+/nebula2/bin/macosx/nimagetool
+/nebula2/bin/macosx/nmeshtool
+/nebula2/bin/macosx/nremoteshell
+/nebula2/bin/macosx/nsh
+/nebula2/bin/macosx/nviewer
+
+# /nebula2/bin/win32/
+/nebula2/bin/win32/*.dll
+/nebula2/bin/win32/*.exp
+/nebula2/bin/win32/*.lib
+/nebula2/bin/win32/Thumbs.db
+
+# /nebula2/bin/win32d/
+/nebula2/bin/win32d/*.dll
+/nebula2/bin/win32d/*.exp
+/nebula2/bin/win32d/*.ilk
+/nebula2/bin/win32d/*.lib
+/nebula2/bin/win32d/mviewer.exe
+/nebula2/bin/win32d/nanimtool.exe
+/nebula2/bin/win32d/ngfxtool.exe
+/nebula2/bin/win32d/nmeshtool.exe
+/nebula2/bin/win32d/nnpktool.exe
+/nebula2/bin/win32d/nremoteshell.exe
+/nebula2/bin/win32d/nsh.exe
+/nebula2/bin/win32d/nviewer.exe
+
+# /nebula2/buildsys3/
+/nebula2/buildsys3/*.pyc
+
+# /nebula2/buildsys3/Plex/
+/nebula2/buildsys3/Plex/*.pyc
+
+# /nebula2/buildsys3/generators/
+/nebula2/buildsys3/generators/*.pyc
+
+# /nebula2/buildsys3/gui/
+/nebula2/buildsys3/gui/*.pyc
+
+# /nebula2/code/contrib/lwexporter/doc/artist/doxysrc/images/
+/nebula2/code/contrib/lwexporter/doc/artist/doxysrc/images/Thumbs.db
+
+# /nebula2/code/contrib/nclodterrain/export/terrains/examples/
+/nebula2/code/contrib/nclodterrain/export/terrains/examples/*.clod
+/nebula2/code/contrib/nclodterrain/export/terrains/examples/*.tqt
+
+# /nebula2/code/contrib/nmax/doc/artistdoc/
+/nebula2/code/contrib/nmax/doc/artistdoc/back
+
+# /nebula2/code/contrib/nmax/doc/artistdoc/doxydoc/
+/nebula2/code/contrib/nmax/doc/artistdoc/doxydoc/toolkit
+
+# /nebula2/code/contrib/nmax/doc/artistdoc/doxysrc/
+/nebula2/code/contrib/nmax/doc/artistdoc/doxysrc/'
+
+# /nebula2/code/contrib/nmax/inc/export2/
+/nebula2/code/contrib/nmax/inc/export2/*.bak
+
+# /nebula2/code/contrib/nmax/res/
+/nebula2/code/contrib/nmax/res/nmaxtoolbox.aps
+
+# /nebula2/code/contrib/nmax/src/export2/
+/nebula2/code/contrib/nmax/src/export2/bak
+/nebula2/code/contrib/nmax/src/export2/nmaxmaterial_shd.cc.bak
+/nebula2/code/contrib/nmax/src/export2/nmaxscene.cc.bak
+/nebula2/code/contrib/nmax/src/export2/nmaxtexture.cc.bak
+
+# /nebula2/code/contrib/nmax/ui/envelopecurvectrl/
+/nebula2/code/contrib/nmax/ui/envelopecurvectrl/nmaxcontrol.ncb
+
+# /nebula2/code/contrib/nmax/ui/envelopecurvectrl/nmaxenvelopecurve/
+/nebula2/code/contrib/nmax/ui/envelopecurvectrl/nmaxenvelopecurve/Release
+/nebula2/code/contrib/nmax/ui/envelopecurvectrl/nmaxenvelopecurve/Debug
+/nebula2/code/contrib/nmax/ui/envelopecurvectrl/nmaxenvelopecurve/*.bak
+
+# /nebula2/code/contrib/npythonserver/scripts/
+/nebula2/code/contrib/npythonserver/scripts/build
+/nebula2/code/contrib/npythonserver/scripts/dist
+/nebula2/code/contrib/npythonserver/scripts/*.pyc
+
+# /nebula2/code/doxycfg/
+/nebula2/code/doxycfg/auto_nebula2.cfg
+/nebula2/code/doxycfg/doxygen.warnings
+
+# /nebula2/code/mangalore/
+/nebula2/code/mangalore/cegui
+/nebula2/code/mangalore/opcode
+/nebula2/code/mangalore/ode
+
+# /nebula2/code/mangalore/lib/
+/nebula2/code/mangalore/lib/win32_vc71_i386
+/nebula2/code/mangalore/lib/cegui-copying.txt
+/nebula2/code/mangalore/lib/freetype-license.txt
+/nebula2/code/mangalore/lib/ode-license.txt
+/nebula2/code/mangalore/lib/pcre-license.txt
+/nebula2/code/mangalore/lib/tinyxml-license.txt
+/nebula2/code/mangalore/lib/version.txt
+
+# /nebula2/code/nebula2/
+/nebula2/code/nebula2/make
+/nebula2/code/nebula2/lib
+
+# /nebula2/code/nebula2/inc/
+/nebula2/code/nebula2/inc/sqlite
+/nebula2/code/nebula2/inc/ogg
+/nebula2/code/nebula2/inc/vorbis
+
+# /nebula2/code/nebula2/src/
+/nebula2/code/nebula2/src/Makefile
+
+# /nebula2/doc/autodoc/
+/nebula2/doc/autodoc/classes
+/nebula2/doc/autodoc/tree.html
+/nebula2/doc/autodoc/tree.dox
+
+# /nebula2/doc/doxydoc/
+/nebula2/doc/doxydoc/nebula2
+
+# /nebula2/tools/mangalore/level_exporter/med/
+/nebula2/tools/mangalore/level_exporter/med/*.pyc
+
+# /nebula2/tools/mangalore/level_exporter/med/gui/
+/nebula2/tools/mangalore/level_exporter/med/gui/*.pyc
+
+# /nebula2/tools/mangalore/level_exporter/med/mang/
+/nebula2/tools/mangalore/level_exporter/med/mang/*.pyc
+
+# /nebula2/utils/
+/nebula2/utils/*.log
+
+# /nebula2/work/installer/Py2exe/
+/nebula2/work/installer/Py2exe/build
+/nebula2/work/installer/Py2exe/dist
